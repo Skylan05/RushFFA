@@ -1,0 +1,2 @@
+# RushFFA
+Plugin Minecraft RushFFA
