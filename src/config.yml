@@ -1,0 +1,10 @@
+lobbyloc : null
+primedTntExplode : 80
+tntDamage : 4
+tntYield : 10
+tntBlockDamage : false
+useBungee : false
+bungeeLobby : lobby
+leaveCmd : lobby
+blockremove : 600
+dropsRemoved : true
